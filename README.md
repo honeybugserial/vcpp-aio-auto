@@ -5,6 +5,10 @@ Automated downloader and installer for **all Microsoft Visual C++ Redistributabl
 This script is designed to be **drop-in**, **portable**, and **hands-off**, with logging, silent installs, and sane defaults.
 
 ---
+## Download
+
+- **Compiled binary:** [vcpp-aio-auto.exe](https://archive.org/download/vcpp-aio-auto/vcpp-aio-auto.exe)
+
 
 ## Features
 
